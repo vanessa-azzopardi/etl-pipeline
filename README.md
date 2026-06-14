@@ -91,8 +91,9 @@ weather-data-etl-pipeline/
 ## How to Run the Project
 
 ### 1. Clone the repository
-`git clone https://github.com/vanessa-azzopardi/etl-pipeline.git
-cd etl-pipeline`
+```text
+git clone https://github.com/vanessa-azzopardi/etl-pipeline.git
+cd etl-pipeline```
 
 
 ### 2. Install dependencies
@@ -104,7 +105,7 @@ cd etl-pipeline`
 
 Create a .env file in the project root and add your OpenWeatherMap API key:
 
-OPENWEATHER_API_KEY=your_api_key_here
+OPENWEATHER_API_KEY = your_api_key_here
 
 
 ### 4. Run the pipeline
