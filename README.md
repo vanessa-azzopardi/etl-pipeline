@@ -93,7 +93,8 @@ weather-data-etl-pipeline/
 ### 1. Clone the repository
 ```text
 git clone https://github.com/vanessa-azzopardi/etl-pipeline.git
-cd etl-pipeline```
+cd etl-pipeline
+```
 
 
 ### 2. Install dependencies
